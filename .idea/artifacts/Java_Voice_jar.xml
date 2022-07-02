@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java-Voice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Voice_jar</output-path>
+    <root id="archive" name="Java-Voice.jar">
+      <element id="module-output" name="Java-Voice" />
+    </root>
+  </artifact>
+</component>
